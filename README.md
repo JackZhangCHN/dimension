@@ -1,3 +1,21 @@
+This improve the connectivity of out-site link. Especially for different forms of site.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------Original comment---------------------
 # Dimension
 
 Dimension is a single page and responsive site template. It is a port of [HTML5 UP's Dimension theme](https://html5up.net/uploads/demos/dimension/).
